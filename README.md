@@ -1,16 +1,80 @@
-## Hi there 👋
+<br>
 
-<!--
-**DarkLesiya-XD/DarkLesiya-XD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💕🤗 DarkLesiya-XD 💕🤗- A WhatsApp User DarkLesiya-XD Bot
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔮 `The main goal of creating this bot is to fully leverage WhatsApp and simplify its functionality.`
+
+<br>
+ 
+  <p align="center">  
+  <a href="https://telegra.ph/file/1743544c222ffd613c219.jpg">
+    <img alt="prabath-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
+    
+  
+  </a>
+</p>  
+
+
+<br>
+<br>
+
+💡 `This bot is created to download and find various things quickly, logo, photo edit and many other features. This bot is created using` **[Baileys](https://github.com/DarkLesiya-XD)**
+
+
+<br>
+<br>
+
+<a href="https://whatsapp.com/channel/0029Vb5vjwX6hENxXYGzfP3R"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20Join%20Our%20WhatsApp%20Channel-black" alt="📎 Join Our WhatsApp Channel" width="300"></a>
+
+<br>
+
+---
+
+<a href="https://github.com/DarkLesiya-XD/DarkLesiya-XD.git"><img src="https://img.shields.io/badge/DEPLOY-greeen" alt="Create DarkLesiya-XD" width="150"></a>
+
+<br>
+
+[![FORK DarkLesiya-XD](https://img.shields.io/badge/FORK%20-PRABATH%20MD-white)](https://gitlab.com/prabathLK/prabath-md/-/forks/new)
+
+ ---
+ 
+<a href="https://github.com/DarkLesiya-XD/"><img src="https://img.shields.io/badge/Read%20Our%20Terms%20and%20Conditions-red" alt="DEPLOY" width="270"></a>
+
+---
+
+<a href="https://www.buymeacoffee.com/DarkLesiya-XD" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+---
+
+##  💕🤗**`DarkLesiya-XD BOT OWNERS,`** 🤗💕
+
+
+   <a href="https://github.com/DarkLesiya-XD/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
+
+---
+
+|**[`Sudesh Tharindu`](https://github.com/DarkLesiya-XD/)**|
+
+---
+
+<a href="https://github.com/DarkLesiya-XD/"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> 
+
+|**[`Nethsara Sithum`](https://github.com/DarkLesiya-XD/)**|
+
+---
+
+## ❤️‍🩹 Special Thanks to
+* [`vihangayt0`](https://github.com/vihangayt0/)
+*
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+`Released date:- 2023.08.24`
+<br>
+`latest updated date:- 2024.08.21`
