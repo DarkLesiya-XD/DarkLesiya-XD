@@ -40,7 +40,7 @@
 
  ---
  
-<a href="https://github.com/DarkLesiya-XD/"><img src="https://img.shields.io/badge/Read%20Our%20Terms%20and%20Conditions-red" alt="DEPLOY" width="270"></a>
+<a href="https://DarkLesiya-XDterms-and-rules.vercel.app/"><img src="https://img.shields.io/badge/Read%20Our%20Terms%20and%20Conditions-red" alt="DEPLOY" width="270"></a>
 
 ---
 
@@ -55,13 +55,13 @@
 
 ---
 
-|**[`Sudesh Tharindu`](https://github.com/DarkLesiya-XD/)**|
+|**[`Sudesh Tharindu`](https://Wa.me/+94788405543?text=DarkLesiya-XD_BOT_Owner🖨️)**|
 
 ---
 
 <a href="https://github.com/DarkLesiya-XD/"><img src="https://files.fm/u/gar6yn8mfk" width=80 height=80></a> 
 
-|**[`Nethsara Sithum`](https://github.com/DarkLesiya-XD/)**|
+|**[`Nethsara Sithum`](https://Wa.me/+94741278546?text=DarkLesiya-XD_BOT_Owner🖨️)**|
 
 ---
 
