@@ -51,7 +51,7 @@
 ##  💕🤗**`DarkLesiya-XD BOT OWNERS,`** 🤗💕
 
 
-   <a href="https://github.com/DarkLesiya-XD/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
+   <a href="https://github.com/DarkLesiya-XD/"><img src="https://files.fm/u/gar6yn8mfk" width=80 height=80></a>   
 
 ---
 
@@ -59,7 +59,7 @@
 
 ---
 
-<a href="https://github.com/DarkLesiya-XD/"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> 
+<a href="https://github.com/DarkLesiya-XD/"><img src="https://files.fm/u/gar6yn8mfk" width=80 height=80></a> 
 
 |**[`Nethsara Sithum`](https://github.com/DarkLesiya-XD/)**|
 
