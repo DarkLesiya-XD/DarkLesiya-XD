@@ -36,7 +36,7 @@
 
 <br>
 
-[![FORK DarkLesiya-XD](https://img.shields.io/badge/FORK%20-PDarkLesiya%20XD-white)](https://gitlab.com/prabathLK/prabath-md/-/forks/new)
+[![FORK DarkLesiya-XD](https://img.shields.io/badge/FORK%20-DarkLesiya%20XD-white)](https://gitlab.com/prabathLK/prabath-md/-/forks/new)
 
  ---
  
