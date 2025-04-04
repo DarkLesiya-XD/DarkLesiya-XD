@@ -36,7 +36,7 @@
 
 <br>
 
-[![FORK DarkLesiya-XD](https://img.shields.io/badge/FORK%50-DarkLesiya%50XD-white)](https://github.com/new)
+[![FORK DarkLesiya-XD](https://img.shields.io/badge/FORK%150-DarkLesiya%150XD-white)](https://github.com/new)
 
  ---
  
