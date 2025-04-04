@@ -36,7 +36,7 @@
 
 <br>
 
-[![FORK DarkLesiya-XD](https://img.shields.io/badge/FORK%150-DarkLesiya%150XD-white)](https://github.com/new)
+[![FORK DarkLesiya-XD](https://img.shields.io/badge/FORK%150-DarkLesiya%1500XD-white)](https://github.com/new)
 
  ---
  
@@ -44,7 +44,7 @@
 
 ---
 
-<a href="https://www.buymeacoffee.com/DarkLesiya-XD" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/DarkLesiya-XD" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="ආසයි වාගෙ😅" style="height: 60px !important;width: 217px !important;" ></a>
 
 ---
 
